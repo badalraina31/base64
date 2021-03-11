@@ -1,5 +1,5 @@
 {
-  "name": "base64",
+  "name": "@br/base64",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,9 @@
   "author": {
     "name": "Badal Raina",
     "email": "badalraiina@hotmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/badalraina31/base64.git"
   },
   "license": "ISC"
 }
